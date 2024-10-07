@@ -1,6 +1,5 @@
 # InForm
 
-![poster](./public/poster.jpg)
 
 Demo: [https://inform-app.vercel.app](https://inform-app.vercel.app)
 
