@@ -75,7 +75,3 @@ Want to set up locally? follow [Setup Instructions](/Setup-Instruction.md)
 ## Database Schema
 
 ![db-schema](./public/diagrams/db-schema.png)
-
-## CI/CD Pipeline
-
-![ci/cd](./public/diagrams/ci-cd.png)
